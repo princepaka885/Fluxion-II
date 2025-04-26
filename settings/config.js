@@ -2,7 +2,7 @@
 
 const fs = require('fs')
 
-global.owner = "254713358303"
+global.owner = "254701964272"
 global.linkch = "https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D"
 global.link = "https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D"
 global.autotyping = false
