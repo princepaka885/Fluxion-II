@@ -5,10 +5,10 @@ const fs = require('fs')
 global.owner = "254713358303"
 global.linkch = "https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D"
 global.link = "https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D"
-global.autotyping = false
+global.autotyping = true
 global.autorecording = false
 global.antipromote = false
-global.antidemote = false
+global.antidemote = true
 global.status = true
 global.welcome = true
 global.autoread = false //auto read messages
@@ -16,11 +16,11 @@ global.autobio = true //auto update bio
 global.anti91 = false 
 global.autoswview = true //auto view status/story
 global.adminevent = false // Admin Event Msg
-global.antilink= false; // Default: disabled
+global.antilink= true; // Default: disabled
 global.autostatusReact = true; // Default: disabled
 global.reactEmoji = '😀';
 global.antiforeign = ""
-global.antibot = false;
+global.antibot = true;
 global.antidel = false
 //Thank you for using FLUXION-XMD
 
